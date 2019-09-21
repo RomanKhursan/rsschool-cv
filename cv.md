@@ -10,4 +10,4 @@ from 21.00 to 8.30) pseudo-class. Email: roman_khursan@mail.ru or instagram: rom
 6. I don't have experience coding tests, projects from courses,
 freelance projects. So maiby it isn't more experience when i learned on the litle cours by C++, HTML and CSS.
 7. Education: Gomel State Transport University.
-8. English: A2 i think so.
+8. English: A2.
