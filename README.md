@@ -1,1 +1,1 @@
-[Summery](https://https//romankhursan.github.io/rsschool-cv/cv)
+[Summery](https://romankhursan.github.io/rsschool-cv/cv)
